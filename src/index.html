@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en" ng-app>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatibe" content="IE-edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Try Angular 1.7!</title>
+	<script src="./js/angular.min.js"></script>
+
+	<script src="./js/app/app.module.js"></script>
+	<script src="./js/app/app.config.js"></script>
+
+	<script src="./js/app/blog-list/blog-list.module.js"></script>
+	<script src="./js/app/blog-list/blog-list.component.js"></script>
+
+</head>
+<style type="text/css">
+	.new-class{
+		font-size: 70px;
+		font-family: arial;
+	}
+	.other-class{
+		font-size: 30px;
+		font-family: tahoma;
+	}
+	.number-font{
+		font-size: 120px;
+	}
+</style>
+<body>
+	<h1 class="new-class" ng-class="{'other-class': var, 'number-font': font == 120}">Hello 
+		<span ng-if='var'>{{var}}</span>
+		<span ng-if='!var'>World</span>
+		!
+	</h1>
+	<input type="text" ng-model="var" placeholder="name" />
+	<input type="text" ng-model="font" placeholder="font">
+
+	<div class = '' ng-controller='BlogListController'></div>
+
+</body>
+</html>

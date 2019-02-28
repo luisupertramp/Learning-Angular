@@ -1,0 +1,364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"plates",
+				"populateList"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"offs",
+				"offsetY"
+			],
+			[
+				"nu",
+				"number2"
+			],
+			[
+				"ins",
+				"isNotScrolled"
+			],
+			[
+				"is",
+				"isHalfShown"
+			],
+			[
+				"scr",
+				"scrollY"
+			],
+			[
+				"slider",
+				"sliderImage"
+			],
+			[
+				"slide",
+				"slideInAt"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"toggle",
+				"togglePlay"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"of",
+				"offsetX"
+			],
+			[
+				"iw",
+				"isDrawing"
+			],
+			[
+				"comme",
+				"comments"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"live",
+				"yearsLivedB"
+			],
+			[
+				"years",
+				"yearsLivedA"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"yea",
+				"year"
+			],
+			[
+				"inven",
+				"inventor"
+			],
+			[
+				"inve",
+				"inventor"
+			],
+			[
+				"fu",
+				"fullNames"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 324,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 170.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/Angular JS/TryAngular/src/TryAngular.sublime-project",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/Angular JS/TryAngular/src/quickTips.md",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/Angular JS/TryAngular/src/index.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/Angular JS/TryAngular/index.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/Angular JS/TryAngular/js/angular.min.js",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/15 - LocalStorage/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/15 - LocalStorage/style.css",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/16 - Mouse Move Shadow/index-start.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/16 - Mouse Move Shadow/index-finished.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/14 - JavaScript References VS Copying/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/13 - Slide in on Scroll/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/12 - Key Sequence Detection/index-FINISHED.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/12 - Key Sequence Detection/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/14 - JavaScript References VS Copying/index-FINISHED.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/13 - Slide in on Scroll/index-FINISHED.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/11 - Custom Video Player/index.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/11 - Custom Video Player/style.css",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/02 - JS and CSS Clock/index-FINISHED.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/11 - Custom Video Player/scripts.js",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/03 - CSS Variables/index-FINISHED.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/10 - Hold Shift and Check Checkboxes/index-FINISHED.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/01 - JavaScript Drum Kit/index-FINISHED.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/10 - Hold Shift and Check Checkboxes/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/09 - Dev Tools Domination/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/08 - Fun with HTML5 Canvas/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/Sublime/Sublime Text Build 3176 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/Sublime/Sublime Text Build 3176 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/04 - Array Cardio Day 1/index-FINISHED.html",
+		"/C/Users/luisf.pedroza/Documents/INTERNAL/JavaScript30-master/JavaScript30-master/03 - CSS Variables/index-START.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TryAngular.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
